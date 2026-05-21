@@ -6,7 +6,7 @@
 - Built hands-on projects, including creating an AI-powered chatbot application
 - Learned about emerging trends in AI and strategies for staying relevant in the evolving GenAI landscape
 
-✅ Tech / Concepts
+✅ Concepts
 - Generative AI
 - Large Language Models (LLMs)
 - Embeddings
@@ -14,3 +14,9 @@
 - Fine-Tuning
 - AI Chatbots
 - AI Use Cases & Applications
+
+✅ Tech 
+- Langchain
+- Streamlit
+- OpeanAI
+- tiktoken
